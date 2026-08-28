@@ -3,6 +3,8 @@
 Centralized enhancement proposals for all [Praxis]
 repositories.
 
+[Praxis]: https://github.com/praxis-proxy
+
 ## How New Features Happen
 
 ```
@@ -39,6 +41,9 @@ Discussion -> Proposal -> Experimental -> Standard
 See [docs/process.md](docs/process.md) for the full
 lifecycle.
 
+[GitHub Discussion]: https://github.com/orgs/praxis-proxy/discussions
+[experimental repo]: https://github.com/praxis-proxy/experimental
+
 ## Structure
 
 ```
@@ -61,6 +66,6 @@ proposals/
 - [Proposal Template](proposals/template.md)
 - [Contributing](CONTRIBUTING.md)
 
-[Praxis]: https://github.com/praxis-proxy
-[GitHub Discussion]: https://github.com/orgs/praxis-proxy/discussions
-[experimental repo]: https://github.com/praxis-proxy/experimental
+## License
+
+Apache 2.0
